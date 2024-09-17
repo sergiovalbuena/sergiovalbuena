@@ -1,6 +1,6 @@
 # Hi there, I'm Sergio Valbuena! 👋
 
-![Banner Image](your_banner_image_url_here)
+
 
 ## About Me 🚀
 
@@ -28,13 +28,13 @@ I'm a passionate **Web, iOS, and Media Designer and Developer** with 7 years of 
 
 ### [KitchenFlow](https://sergiovalbuenaportafolio.vercel.app/)
 
-![KitchenFlow Screenshot](project_1_screenshot_url)
+
 
 **KitchenFlow** is a web-based platform where I led the design and development of responsive, user-friendly interfaces using **Next.js**, and integrated software components and APIs like **Google Auth**, **OpenAI**, and **Stripe** to enhance platform functionality.
 
 ### [BCDevExchange - Showcase Scenario Creator](https://sergiovalbuenaportafolio.vercel.app/)
 
-![Project 2 Screenshot](project_2_screenshot_url)
+
 
 The **Showcase Scenario Creator** is a UI-focused project where I built and iterated on the **frontend UI** using React, collaborating closely with stakeholders to deliver the solution from scratch.
 
